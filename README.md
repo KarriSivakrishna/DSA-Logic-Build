@@ -98,6 +98,7 @@ Leetcode solutions of dsa
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0061-rotate-list) |
 | [0349-intersection-of-two-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0567-permutation-in-string) |
 ## Matrix
@@ -108,4 +109,8 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0898-transpose-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
