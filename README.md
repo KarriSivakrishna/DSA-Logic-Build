@@ -104,6 +104,7 @@ Leetcode solutions of dsa
 | [0061-rotate-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0061-rotate-list) |
 | [0349-intersection-of-two-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0567-permutation-in-string) |
+| [0908-middle-of-the-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0061-rotate-list) |
+| [0908-middle-of-the-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
