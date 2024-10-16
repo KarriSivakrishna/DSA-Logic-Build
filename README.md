@@ -127,10 +127,15 @@ Leetcode solutions of dsa
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0061-rotate-list) |
 | [0908-middle-of-the-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
