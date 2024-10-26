@@ -19,6 +19,7 @@ Leetcode solutions of dsa
 | [0898-transpose-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1127-last-stone-weight](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1127-last-stone-weight) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -165,4 +166,8 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
