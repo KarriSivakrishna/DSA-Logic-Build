@@ -84,6 +84,7 @@ Leetcode solutions of dsa
 | [0438-find-all-anagrams-in-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0837-most-common-word) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -188,4 +189,8 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0913-random-flip-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0913-random-flip-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
