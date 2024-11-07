@@ -24,6 +24,7 @@ Leetcode solutions of dsa
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
@@ -47,6 +48,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0561-array-partition](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0561-array-partition) |
 | [0837-most-common-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0837-most-common-word) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +76,7 @@ Leetcode solutions of dsa
 | [0913-random-flip-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0913-random-flip-matrix) |
 | [0940-fruit-into-baskets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0940-fruit-into-baskets) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String
 |  |
@@ -121,6 +124,7 @@ Leetcode solutions of dsa
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0389-find-the-difference) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Prefix Sum
 |  |
