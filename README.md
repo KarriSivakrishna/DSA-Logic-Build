@@ -10,6 +10,7 @@ Leetcode solutions of dsa
 | [0004-median-of-two-sorted-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
@@ -31,6 +32,7 @@ Leetcode solutions of dsa
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0561-array-partition) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
