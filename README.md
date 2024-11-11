@@ -26,6 +26,7 @@ Leetcode solutions of dsa
 | [2199-two-furthest-houses-with-different-colors](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2716-prime-subtraction-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
@@ -33,6 +34,7 @@ Leetcode solutions of dsa
 | [0561-array-partition](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0561-array-partition) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2716-prime-subtraction-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -109,6 +111,7 @@ Leetcode solutions of dsa
 | [0371-sum-of-two-integers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
 | [0913-random-flip-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0913-random-flip-matrix) |
+| [2716-prime-subtraction-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2716-prime-subtraction-operation) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +121,7 @@ Leetcode solutions of dsa
 | [0349-intersection-of-two-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2716-prime-subtraction-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -206,4 +210,8 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0812-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
