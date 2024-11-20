@@ -78,6 +78,7 @@ Leetcode solutions of dsa
 | [1755-defuse-the-bomb](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1755-defuse-the-bomb) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
@@ -97,6 +98,7 @@ Leetcode solutions of dsa
 | [2186-count-vowel-substrings-of-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String
 |  |
@@ -115,6 +117,7 @@ Leetcode solutions of dsa
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2580-circular-sentence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2580-circular-sentence) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3451-string-compression-iii) |
 ## Dynamic Programming
