@@ -135,6 +135,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0118-pascals-triangle) |
 ## Math
 |  |
@@ -143,6 +144,7 @@ Leetcode solutions of dsa
 | [0007-reverse-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
@@ -283,4 +285,8 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
