@@ -116,6 +116,7 @@ Leetcode solutions of dsa
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
