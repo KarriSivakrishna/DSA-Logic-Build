@@ -137,6 +137,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0002-add-two-numbers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
