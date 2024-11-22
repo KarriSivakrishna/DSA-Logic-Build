@@ -132,6 +132,7 @@ Leetcode solutions of dsa
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
@@ -196,6 +197,7 @@ Leetcode solutions of dsa
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0061-rotate-list) |
 | [0908-middle-of-the-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -207,6 +209,7 @@ Leetcode solutions of dsa
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0021-merge-two-sorted-lists) |
 ## Tree
 |  |
