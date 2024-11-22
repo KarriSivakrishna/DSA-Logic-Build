@@ -87,6 +87,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0001-two-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
@@ -110,6 +111,7 @@ Leetcode solutions of dsa
 | [0003-longest-substring-without-repeating-characters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0049-group-anagrams) |
@@ -138,6 +140,7 @@ Leetcode solutions of dsa
 | [0002-add-two-numbers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
