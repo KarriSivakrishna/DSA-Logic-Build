@@ -8,6 +8,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0001-two-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0135-candy) |
@@ -185,6 +186,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0061-rotate-list) |
 | [0349-intersection-of-two-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0567-permutation-in-string) |
