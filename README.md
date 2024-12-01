@@ -44,6 +44,7 @@ Leetcode solutions of dsa
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -225,6 +226,7 @@ Leetcode solutions of dsa
 | [2089-maximum-matrix-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -261,6 +263,7 @@ Leetcode solutions of dsa
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
@@ -278,6 +281,7 @@ Leetcode solutions of dsa
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1127-last-stone-weight](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1127-last-stone-weight) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -323,12 +327,14 @@ Leetcode solutions of dsa
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Eulerian Circuit
 |  |
 | ------- |
