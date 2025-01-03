@@ -46,6 +46,7 @@ Leetcode solutions of dsa
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -239,6 +240,7 @@ Leetcode solutions of dsa
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1940-maximum-xor-for-each-query) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2358-number-of-ways-to-split-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3427-special-array-ii) |
 ## Two Pointers
