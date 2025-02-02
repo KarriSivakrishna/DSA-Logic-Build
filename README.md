@@ -15,6 +15,7 @@ Leetcode solutions of dsa
 | [0135-candy](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -79,6 +80,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0049-group-anagrams](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -96,6 +98,7 @@ Leetcode solutions of dsa
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0561-array-partition) |
 | [0837-most-common-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0837-most-common-word) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -127,6 +130,7 @@ Leetcode solutions of dsa
 | [0013-roman-to-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0290-word-pattern) |
@@ -355,6 +359,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0169-majority-element) |
 ## Reservoir Sampling
 |  |
 | ------- |
