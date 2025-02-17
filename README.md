@@ -10,6 +10,7 @@ Leetcode solutions of dsa
 | [0004-median-of-two-sorted-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0135-candy) |
@@ -81,6 +82,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0242-valid-anagram) |
@@ -275,6 +277,7 @@ Leetcode solutions of dsa
 | [0005-longest-palindromic-substring](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0283-move-zeroes) |
