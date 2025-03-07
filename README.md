@@ -341,6 +341,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0101-symmetric-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -360,6 +361,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0101-symmetric-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -368,6 +370,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0101-symmetric-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2201-valid-arrangement-of-pairs) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -443,4 +446,8 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2201-valid-arrangement-of-pairs) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
