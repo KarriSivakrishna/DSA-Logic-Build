@@ -127,6 +127,7 @@ Leetcode solutions of dsa
 | [0940-fruit-into-baskets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1755-defuse-the-bomb) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -160,6 +161,7 @@ Leetcode solutions of dsa
 | [0940-fruit-into-baskets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0940-fruit-into-baskets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1160-letter-tile-possibilities) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -194,6 +196,7 @@ Leetcode solutions of dsa
 | [0837-most-common-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0837-most-common-word) |
 | [1160-letter-tile-possibilities](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
