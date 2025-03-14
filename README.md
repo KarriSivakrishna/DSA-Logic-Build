@@ -34,6 +34,7 @@ Leetcode solutions of dsa
 | [1046-max-consecutive-ones-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1524-string-matching-in-an-array) |
@@ -249,6 +250,7 @@ Leetcode solutions of dsa
 | [0349-intersection-of-two-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
