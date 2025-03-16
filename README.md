@@ -479,4 +479,8 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
