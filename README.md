@@ -27,6 +27,7 @@ Leetcode solutions of dsa
 | [0643-maximum-average-subarray-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0724-find-pivot-index) |
 | [0787-sliding-puzzle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0787-sliding-puzzle) |
+| [0792-binary-search](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0837-most-common-word) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0898-transpose-matrix) |
@@ -250,6 +251,7 @@ Leetcode solutions of dsa
 | [0209-minimum-size-subarray-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
