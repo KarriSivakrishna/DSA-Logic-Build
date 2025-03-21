@@ -52,6 +52,7 @@ Leetcode solutions of dsa
 | [2179-most-beautiful-item-for-each-query](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -174,6 +175,7 @@ Leetcode solutions of dsa
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -214,6 +216,7 @@ Leetcode solutions of dsa
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -466,6 +469,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2201-valid-arrangement-of-pairs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3189-find-champion-ii) |
@@ -487,4 +491,8 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1908-recyclable-and-low-fat-products) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
