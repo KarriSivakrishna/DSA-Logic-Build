@@ -78,6 +78,7 @@ Leetcode solutions of dsa
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Greedy
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Leetcode solutions of dsa
 | [2699-count-the-number-of-fair-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3291-find-if-array-can-be-sorted) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Counting Sort
 |  |
 | ------- |
