@@ -72,6 +72,7 @@ Leetcode solutions of dsa
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3427-special-array-ii) |
