@@ -71,6 +71,7 @@ Leetcode solutions of dsa
 | [2699-count-the-number-of-fair-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2716-prime-subtraction-operation) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3291-find-if-array-can-be-sorted) |
@@ -146,6 +147,7 @@ Leetcode solutions of dsa
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -185,6 +187,7 @@ Leetcode solutions of dsa
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
