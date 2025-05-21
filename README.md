@@ -10,6 +10,7 @@ Leetcode solutions of dsa
 | [0004-median-of-two-sorted-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0118-pascals-triangle) |
@@ -164,6 +165,7 @@ Leetcode solutions of dsa
 | [0013-roman-to-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
@@ -348,6 +350,7 @@ Leetcode solutions of dsa
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0200-number-of-islands) |
 | [0787-sliding-puzzle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0787-sliding-puzzle) |
 | [0898-transpose-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0898-transpose-matrix) |
