@@ -441,6 +441,7 @@ Leetcode solutions of dsa
 | [0226-invert-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0386-lexicographical-numbers) |
 | [2201-valid-arrangement-of-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2201-valid-arrangement-of-pairs) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Heap (Priority Queue)
@@ -536,4 +537,8 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0200-number-of-islands) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
