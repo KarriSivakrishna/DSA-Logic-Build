@@ -100,6 +100,7 @@ Leetcode solutions of dsa
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
@@ -276,6 +277,7 @@ Leetcode solutions of dsa
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
 | [0913-random-flip-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0913-random-flip-matrix) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2716-prime-subtraction-operation) |
 ## Binary Search
 |  |
