@@ -287,6 +287,7 @@ Leetcode solutions of dsa
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2716-prime-subtraction-operation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Binary Search
 |  |
@@ -332,6 +333,7 @@ Leetcode solutions of dsa
 | [3291-find-if-array-can-be-sorted](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3394-minimum-array-end) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -420,6 +422,7 @@ Leetcode solutions of dsa
 | [0021-merge-two-sorted-lists](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0206-reverse-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Tree
 |  |
 | ------- |
