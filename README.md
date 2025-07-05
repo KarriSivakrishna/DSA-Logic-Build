@@ -54,6 +54,7 @@ Leetcode solutions of dsa
 | [1917-maximum-average-pass-ratio](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1972-rotating-the-box) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2089-maximum-matrix-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -98,6 +99,7 @@ Leetcode solutions of dsa
 | [0135-candy](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0561-array-partition) |
 | [1917-maximum-average-pass-ratio](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2089-maximum-matrix-sum) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -119,6 +121,7 @@ Leetcode solutions of dsa
 | [0561-array-partition](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -374,6 +377,7 @@ Leetcode solutions of dsa
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1972-rotating-the-box) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2414-move-pieces-to-obtain-a-string) |
