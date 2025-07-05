@@ -44,6 +44,7 @@ Leetcode solutions of dsa
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -135,6 +136,7 @@ Leetcode solutions of dsa
 | [0594-longest-harmonious-subsequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0837-most-common-word) |
 | [1160-letter-tile-possibilities](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1160-letter-tile-possibilities) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -195,6 +197,7 @@ Leetcode solutions of dsa
 | [1160-letter-tile-possibilities](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
