@@ -73,6 +73,7 @@ Leetcode solutions of dsa
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2479-meeting-rooms-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2479-meeting-rooms-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -135,6 +136,7 @@ Leetcode solutions of dsa
 | [2164-two-best-non-overlapping-events](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2479-meeting-rooms-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2479-meeting-rooms-iii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -220,6 +222,7 @@ Leetcode solutions of dsa
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2479-meeting-rooms-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2479-meeting-rooms-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -420,6 +423,7 @@ Leetcode solutions of dsa
 | [2232-adding-spaces-to-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2479-meeting-rooms-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2479-meeting-rooms-iii) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
@@ -497,6 +501,7 @@ Leetcode solutions of dsa
 | [1917-maximum-average-pass-ratio](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2479-meeting-rooms-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2479-meeting-rooms-iii) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Divide and Conquer
