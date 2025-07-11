@@ -431,6 +431,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0002-add-two-numbers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0206-reverse-linked-list) |
@@ -495,6 +496,7 @@ Leetcode solutions of dsa
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1127-last-stone-weight](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -508,6 +510,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0169-majority-element) |
 ## Reservoir Sampling
 |  |
@@ -599,4 +602,8 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
