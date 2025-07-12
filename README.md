@@ -291,6 +291,7 @@ Leetcode solutions of dsa
 | [0747-min-cost-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2164-two-best-non-overlapping-events](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [3618-find-the-original-typed-string-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3618-find-the-original-typed-string-ii) |
 ## Math
@@ -554,6 +555,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0070-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0070-climbing-stairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Graph
 |  |
 | ------- |
