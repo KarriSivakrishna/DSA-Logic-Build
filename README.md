@@ -319,6 +319,7 @@ Leetcode solutions of dsa
 | [0371-sum-of-two-integers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
 | [0913-random-flip-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0913-random-flip-matrix) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2716-prime-subtraction-operation) |
@@ -452,6 +453,7 @@ Leetcode solutions of dsa
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
 | ------- |
