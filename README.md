@@ -254,6 +254,7 @@ Leetcode solutions of dsa
 | [0013-roman-to-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0097-interleaving-string) |
@@ -317,6 +318,7 @@ Leetcode solutions of dsa
 | [0009-palindrome-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0189-rotate-array) |
@@ -441,6 +443,7 @@ Leetcode solutions of dsa
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0898-transpose-matrix) |
 | [2232-adding-spaces-to-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2232-adding-spaces-to-a-string) |
