@@ -19,6 +19,7 @@ Leetcode solutions of dsa
 | [0088-merge-sorted-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0118-pascals-triangle) |
+| [0130-surrounded-regions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0137-single-number-ii) |
@@ -452,6 +453,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0200-number-of-islands) |
 | [0787-sliding-puzzle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0787-sliding-puzzle) |
 | [0898-transpose-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0898-transpose-matrix) |
@@ -515,6 +517,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0101-symmetric-tree) |
+| [0130-surrounded-regions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0226-invert-binary-tree) |
 | [0787-sliding-puzzle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0787-sliding-puzzle) |
@@ -540,6 +543,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0079-word-search](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0101-symmetric-tree) |
+| [0130-surrounded-regions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0226-invert-binary-tree) |
@@ -653,6 +657,7 @@ Leetcode solutions of dsa
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0200-number-of-islands) |
 ## Trie
 |  |
