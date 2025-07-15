@@ -273,6 +273,7 @@ Leetcode solutions of dsa
 | [0257-binary-tree-paths](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0299-bulls-and-cows) |
+| [0306-additive-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0306-additive-number) |
 | [0389-find-the-difference](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -598,6 +599,7 @@ Leetcode solutions of dsa
 | [0046-permutations](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0306-additive-number) |
 | [1160-letter-tile-possibilities](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1160-letter-tile-possibilities) |
 ## Memoization
 |  |
