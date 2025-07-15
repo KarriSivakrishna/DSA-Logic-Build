@@ -286,6 +286,7 @@ Leetcode solutions of dsa
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3396-valid-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
