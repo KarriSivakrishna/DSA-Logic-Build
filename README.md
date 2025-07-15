@@ -11,6 +11,7 @@ Leetcode solutions of dsa
 | [0027-remove-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0078-subsets) |
@@ -107,6 +108,7 @@ Leetcode solutions of dsa
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0561-array-partition) |
@@ -302,6 +304,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0097-interleaving-string) |
