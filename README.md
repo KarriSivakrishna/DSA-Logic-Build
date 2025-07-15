@@ -257,6 +257,7 @@ Leetcode solutions of dsa
 | [0043-multiply-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0058-length-of-last-word) |
+| [0091-decode-ways](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0242-valid-anagram) |
@@ -302,6 +303,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0118-pascals-triangle) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0747-min-cost-climbing-stairs) |
