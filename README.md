@@ -262,6 +262,7 @@ Leetcode solutions of dsa
 | [0091-decode-ways](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0125-valid-palindrome) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0290-word-pattern) |
@@ -523,6 +524,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0101-symmetric-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -635,10 +637,12 @@ Leetcode solutions of dsa
 ## Trie
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0386-lexicographical-numbers) |
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Enumeration
 |  |
