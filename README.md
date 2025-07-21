@@ -68,6 +68,7 @@ Leetcode solutions of dsa
 | [1972-rotating-the-box](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2077-largest-number-after-mutating-substring](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2077-largest-number-after-mutating-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2089-maximum-matrix-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2164-two-best-non-overlapping-events) |
@@ -124,6 +125,7 @@ Leetcode solutions of dsa
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2077-largest-number-after-mutating-substring](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2077-largest-number-after-mutating-substring) |
 | [2089-maximum-matrix-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2089-maximum-matrix-sum) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -305,6 +307,7 @@ Leetcode solutions of dsa
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2077-largest-number-after-mutating-substring](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2077-largest-number-after-mutating-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
