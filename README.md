@@ -253,6 +253,7 @@ Leetcode solutions of dsa
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2340-total-appeal-of-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2340-total-appeal-of-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2479-meeting-rooms-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2479-meeting-rooms-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -314,6 +315,7 @@ Leetcode solutions of dsa
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2340-total-appeal-of-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2340-total-appeal-of-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2580-circular-sentence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2580-circular-sentence) |
@@ -348,6 +350,7 @@ Leetcode solutions of dsa
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2164-two-best-non-overlapping-events](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2340-total-appeal-of-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2340-total-appeal-of-a-string) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3618-find-the-original-typed-string-ii) |
