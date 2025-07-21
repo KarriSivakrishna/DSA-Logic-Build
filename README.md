@@ -115,6 +115,7 @@ Leetcode solutions of dsa
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3934-coupon-code-validator](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3934-coupon-code-validator) |
 ## Greedy
 |  |
 | ------- |
@@ -165,6 +166,7 @@ Leetcode solutions of dsa
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3934-coupon-code-validator](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3934-coupon-code-validator) |
 ## Counting Sort
 |  |
 | ------- |
@@ -267,6 +269,7 @@ Leetcode solutions of dsa
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3934-coupon-code-validator](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3934-coupon-code-validator) |
 ## String
 |  |
 | ------- |
@@ -332,6 +335,7 @@ Leetcode solutions of dsa
 | [3618-find-the-original-typed-string-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3934-coupon-code-validator](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3934-coupon-code-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
