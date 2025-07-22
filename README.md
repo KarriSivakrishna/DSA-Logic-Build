@@ -146,6 +146,7 @@ Leetcode solutions of dsa
 | [0049-group-anagrams](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
@@ -472,6 +473,7 @@ Leetcode solutions of dsa
 | [0075-sort-colors](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -526,6 +528,7 @@ Leetcode solutions of dsa
 | [0061-rotate-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -626,6 +629,7 @@ Leetcode solutions of dsa
 | [0023-merge-k-sorted-lists](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0169-majority-element) |
 ## Reservoir Sampling
 |  |
@@ -737,6 +741,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0148-sort-list) |
 ## Hash Function
 |  |
 | ------- |
