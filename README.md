@@ -477,6 +477,7 @@ Leetcode solutions of dsa
 | [0125-valid-palindrome](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0455-assign-cookies) |
@@ -532,12 +533,14 @@ Leetcode solutions of dsa
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0234-palindrome-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Recursion
@@ -547,6 +550,7 @@ Leetcode solutions of dsa
 | [0021-merge-two-sorted-lists](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Tree
