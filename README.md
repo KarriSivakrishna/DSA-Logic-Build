@@ -541,6 +541,7 @@ Leetcode solutions of dsa
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -569,6 +570,7 @@ Leetcode solutions of dsa
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -583,6 +585,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0079-word-search](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0079-word-search) |
+| [0099-recover-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0130-surrounded-regions) |
@@ -688,6 +691,7 @@ Leetcode solutions of dsa
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
