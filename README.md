@@ -377,6 +377,7 @@ Leetcode solutions of dsa
 | [0009-palindrome-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0070-climbing-stairs) |
@@ -426,6 +427,7 @@ Leetcode solutions of dsa
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0137-single-number-ii) |
