@@ -37,6 +37,7 @@ Leetcode solutions of dsa
 | [0283-move-zeroes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0403-frog-jump](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0561-array-partition) |
@@ -363,6 +364,7 @@ Leetcode solutions of dsa
 | [0213-house-robber-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0403-frog-jump) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
