@@ -40,6 +40,7 @@ Leetcode solutions of dsa
 | [0403-frog-jump](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0403-frog-jump) |
 | [0436-find-right-interval](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0475-heaters) |
 | [0525-contiguous-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -158,6 +159,7 @@ Leetcode solutions of dsa
 | [0389-find-the-difference](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0389-find-the-difference) |
 | [0436-find-right-interval](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0475-heaters) |
 | [0561-array-partition](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0807-custom-sort-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0807-custom-sort-string) |
@@ -412,6 +414,7 @@ Leetcode solutions of dsa
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -488,6 +491,7 @@ Leetcode solutions of dsa
 | [0283-move-zeroes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
