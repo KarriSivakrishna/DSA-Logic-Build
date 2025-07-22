@@ -735,6 +735,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0176-second-highest-salary) |
+| [0595-big-countries](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1908-recyclable-and-low-fat-products) |
 ## Topological Sort
 |  |
