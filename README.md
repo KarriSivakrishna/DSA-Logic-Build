@@ -41,6 +41,7 @@ Leetcode solutions of dsa
 | [0436-find-right-interval](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0475-heaters) |
+| [0494-target-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -369,6 +370,7 @@ Leetcode solutions of dsa
 | [0264-ugly-number-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0403-frog-jump) |
+| [0494-target-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -690,6 +692,7 @@ Leetcode solutions of dsa
 | [0079-word-search](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0306-additive-number) |
+| [0494-target-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1160-letter-tile-possibilities) |
 ## Memoization
 |  |
