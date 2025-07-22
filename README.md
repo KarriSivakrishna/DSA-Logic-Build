@@ -317,6 +317,7 @@ Leetcode solutions of dsa
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0782-jewels-and-stones) |
