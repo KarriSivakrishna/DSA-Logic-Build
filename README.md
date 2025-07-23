@@ -83,6 +83,7 @@ Leetcode solutions of dsa
 | [2077-largest-number-after-mutating-substring](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2077-largest-number-after-mutating-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2089-maximum-matrix-sum) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2164-two-best-non-overlapping-events](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -358,6 +359,7 @@ Leetcode solutions of dsa
 | [2077-largest-number-after-mutating-substring](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2077-largest-number-after-mutating-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2232-adding-spaces-to-a-string) |
@@ -560,6 +562,7 @@ Leetcode solutions of dsa
 | [0874-backspace-string-compare](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0898-transpose-matrix) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
