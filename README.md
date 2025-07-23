@@ -57,6 +57,7 @@ Leetcode solutions of dsa
 | [0898-transpose-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0945-snakes-and-ladders) |
+| [0990-verifying-an-alien-dictionary](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1046-max-consecutive-ones-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -264,6 +265,7 @@ Leetcode solutions of dsa
 | [0837-most-common-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0837-most-common-word) |
 | [0913-random-flip-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0913-random-flip-matrix) |
 | [0940-fruit-into-baskets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0940-fruit-into-baskets) |
+| [0990-verifying-an-alien-dictionary](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -333,6 +335,7 @@ Leetcode solutions of dsa
 | [0837-most-common-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0878-shifting-letters) |
+| [0990-verifying-an-alien-dictionary](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1160-letter-tile-possibilities](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
