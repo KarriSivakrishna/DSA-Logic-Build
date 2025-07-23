@@ -393,6 +393,7 @@ Leetcode solutions of dsa
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3893-generate-tag-for-video-caption](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3893-generate-tag-for-video-caption) |
 | [3934-coupon-code-validator](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3934-coupon-code-validator) |
 ## Dynamic Programming
 |  |
@@ -582,6 +583,7 @@ Leetcode solutions of dsa
 | [2479-meeting-rooms-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2479-meeting-rooms-iii) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3893-generate-tag-for-video-caption](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3893-generate-tag-for-video-caption) |
 ## Linked List
 |  |
 | ------- |
