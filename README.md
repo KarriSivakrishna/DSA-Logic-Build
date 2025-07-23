@@ -330,6 +330,7 @@ Leetcode solutions of dsa
 | [0807-custom-sort-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0837-most-common-word) |
+| [0874-backspace-string-compare](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0874-backspace-string-compare) |
 | [1160-letter-tile-possibilities](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -507,6 +508,7 @@ Leetcode solutions of dsa
 | [0455-assign-cookies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0567-permutation-in-string) |
+| [0874-backspace-string-compare](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -540,6 +542,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0043-multiply-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
+| [0874-backspace-string-compare](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0898-transpose-matrix) |
 | [2232-adding-spaces-to-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -566,6 +569,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0020-valid-parentheses](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0874-backspace-string-compare) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1818-maximum-score-from-removing-substrings) |
