@@ -33,6 +33,7 @@ Leetcode solutions of dsa
 | [0209-minimum-size-subarray-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0322-coin-change) |
