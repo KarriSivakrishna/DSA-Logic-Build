@@ -150,6 +150,7 @@ Leetcode solutions of dsa
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2716-prime-subtraction-operation) |
+| [3055-maximum-odd-binary-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3055-maximum-odd-binary-number) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
@@ -374,6 +375,7 @@ Leetcode solutions of dsa
 | [2691-count-vowel-strings-in-ranges](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3019-furthest-point-from-origin](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3019-furthest-point-from-origin) |
+| [3055-maximum-odd-binary-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3055-maximum-odd-binary-number) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3396-valid-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3396-valid-word) |
@@ -436,6 +438,7 @@ Leetcode solutions of dsa
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2716-prime-subtraction-operation) |
+| [3055-maximum-odd-binary-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3055-maximum-odd-binary-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
