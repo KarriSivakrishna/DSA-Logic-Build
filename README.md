@@ -365,6 +365,7 @@ Leetcode solutions of dsa
 | [2232-adding-spaces-to-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2340-total-appeal-of-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2340-total-appeal-of-a-string) |
+| [2401-count-asterisks](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2401-count-asterisks) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2580-circular-sentence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2580-circular-sentence) |
