@@ -133,6 +133,7 @@ Leetcode solutions of dsa
 | [0135-candy](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0561-array-partition) |
+| [0778-reorganize-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0778-reorganize-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1917-maximum-average-pass-ratio) |
@@ -165,6 +166,7 @@ Leetcode solutions of dsa
 | [0475-heaters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0475-heaters) |
 | [0561-array-partition](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0778-reorganize-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0807-custom-sort-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -189,6 +191,7 @@ Leetcode solutions of dsa
 | [0299-bulls-and-cows](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0299-bulls-and-cows) |
 | [0561-array-partition](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0778-reorganize-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0837-most-common-word) |
 | [1160-letter-tile-possibilities](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -254,6 +257,7 @@ Leetcode solutions of dsa
 | [0525-contiguous-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0778-reorganize-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0807-custom-sort-string) |
 | [0837-most-common-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0837-most-common-word) |
@@ -321,6 +325,7 @@ Leetcode solutions of dsa
 | [0520-detect-capital](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0742-to-lower-case) |
+| [0778-reorganize-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0812-rotate-string) |
@@ -640,6 +645,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0264-ugly-number-ii) |
+| [0778-reorganize-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0778-reorganize-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1127-last-stone-weight](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
