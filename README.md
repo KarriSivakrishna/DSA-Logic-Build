@@ -205,6 +205,7 @@ Leetcode solutions of dsa
 | [2308-divide-array-into-equal-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3019-furthest-point-from-origin](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3019-furthest-point-from-origin) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -372,6 +373,7 @@ Leetcode solutions of dsa
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3019-furthest-point-from-origin](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3019-furthest-point-from-origin) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3396-valid-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3396-valid-word) |
