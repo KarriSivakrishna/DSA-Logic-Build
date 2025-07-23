@@ -434,6 +434,7 @@ Leetcode solutions of dsa
 | [0029-divide-two-integers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0204-count-primes) |
@@ -455,6 +456,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
