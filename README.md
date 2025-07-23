@@ -406,6 +406,7 @@ Leetcode solutions of dsa
 | [0371-sum-of-two-integers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
 | [0913-random-flip-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0913-random-flip-matrix) |
+| [1103-moving-stones-until-consecutive](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1103-moving-stones-until-consecutive) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -777,4 +778,8 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2079-delete-duplicate-folders-in-system) |
+## Brainteaser
+|  |
+| ------- |
+| [1103-moving-stones-until-consecutive](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1103-moving-stones-until-consecutive) |
 <!---LeetCode Topics End-->
