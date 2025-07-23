@@ -354,6 +354,7 @@ Leetcode solutions of dsa
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2077-largest-number-after-mutating-substring](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2077-largest-number-after-mutating-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -558,6 +559,7 @@ Leetcode solutions of dsa
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0898-transpose-matrix) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
