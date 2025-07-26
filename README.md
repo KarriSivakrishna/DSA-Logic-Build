@@ -218,6 +218,7 @@ Leetcode solutions of dsa
 | [3019-furthest-point-from-origin](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3019-furthest-point-from-origin) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -313,6 +314,7 @@ Leetcode solutions of dsa
 | [3412-permutation-difference-between-two-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -410,6 +412,7 @@ Leetcode solutions of dsa
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3618-find-the-original-typed-string-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -443,6 +446,7 @@ Leetcode solutions of dsa
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3618-find-the-original-typed-string-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Math
 |  |
 | ------- |
@@ -476,6 +480,7 @@ Leetcode solutions of dsa
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Binary Search
 |  |
