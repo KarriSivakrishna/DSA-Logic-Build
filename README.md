@@ -379,6 +379,7 @@ Leetcode solutions of dsa
 | [0878-shifting-letters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0878-shifting-letters) |
 | [0990-verifying-an-alien-dictionary](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1156-occurrences-after-bigram](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1156-occurrences-after-bigram) |
 | [1160-letter-tile-possibilities](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1297-maximum-number-of-balloons](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
