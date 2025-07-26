@@ -55,6 +55,7 @@ Leetcode solutions of dsa
 | [0747-min-cost-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0792-binary-search) |
+| [0824-number-of-lines-to-write-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0837-most-common-word) |
 | [0878-shifting-letters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -367,6 +368,7 @@ Leetcode solutions of dsa
 | [0782-jewels-and-stones](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0812-rotate-string) |
+| [0824-number-of-lines-to-write-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0878-shifting-letters) |
