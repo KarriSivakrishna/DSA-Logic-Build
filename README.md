@@ -8,6 +8,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0001-two-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0048-rotate-image) |
@@ -171,6 +172,7 @@ Leetcode solutions of dsa
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0088-merge-sorted-array) |
@@ -585,6 +587,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0075-sort-colors) |
