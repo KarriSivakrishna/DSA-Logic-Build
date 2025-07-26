@@ -422,6 +422,7 @@ Leetcode solutions of dsa
 | [3055-maximum-odd-binary-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3055-maximum-odd-binary-number) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3194-find-words-containing-character) |
+| [3207-make-three-strings-equal](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3207-make-three-strings-equal) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3396-valid-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3396-valid-word) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
