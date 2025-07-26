@@ -417,6 +417,7 @@ Leetcode solutions of dsa
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3893-generate-tag-for-video-caption](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3893-generate-tag-for-video-caption) |
+| [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 | [3934-coupon-code-validator](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3934-coupon-code-validator) |
 ## Dynamic Programming
 |  |
@@ -482,6 +483,7 @@ Leetcode solutions of dsa
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 ## Binary Search
 |  |
 | ------- |
