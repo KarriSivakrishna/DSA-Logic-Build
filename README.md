@@ -309,6 +309,7 @@ Leetcode solutions of dsa
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2915-count-of-interesting-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -401,6 +402,7 @@ Leetcode solutions of dsa
 | [3194-find-words-containing-character](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3194-find-words-containing-character) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3396-valid-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3396-valid-word) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3451-string-compression-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3455-minimum-length-of-string-after-operations) |
