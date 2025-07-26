@@ -349,6 +349,7 @@ Leetcode solutions of dsa
 | [0402-remove-k-digits](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0466-count-the-repetitions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0466-count-the-repetitions) |
 | [0500-keyboard-row](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0567-permutation-in-string) |
@@ -425,6 +426,7 @@ Leetcode solutions of dsa
 | [0264-ugly-number-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0403-frog-jump) |
+| [0466-count-the-repetitions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0466-count-the-repetitions) |
 | [0494-target-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
