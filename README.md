@@ -442,6 +442,7 @@ Leetcode solutions of dsa
 | [3412-permutation-difference-between-two-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3451-string-compression-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3468-find-the-encrypted-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3468-find-the-encrypted-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3617-find-the-original-typed-string-i) |
