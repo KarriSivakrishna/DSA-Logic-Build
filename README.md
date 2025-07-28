@@ -270,6 +270,7 @@ Leetcode solutions of dsa
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
@@ -339,6 +340,7 @@ Leetcode solutions of dsa
 | [3412-permutation-difference-between-two-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -453,6 +455,7 @@ Leetcode solutions of dsa
 | [3468-find-the-encrypted-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3468-find-the-encrypted-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
