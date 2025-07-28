@@ -78,6 +78,7 @@ Leetcode solutions of dsa
 | [1510-find-lucky-integer-in-an-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1651-shuffle-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1651-shuffle-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1813-maximum-erasure-value) |
@@ -398,6 +399,7 @@ Leetcode solutions of dsa
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1619-path-crossing](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1619-path-crossing) |
+| [1651-shuffle-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1651-shuffle-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
