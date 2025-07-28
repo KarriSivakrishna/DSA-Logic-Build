@@ -426,6 +426,7 @@ Leetcode solutions of dsa
 | [2401-count-asterisks](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2401-count-asterisks) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2528-number-of-valid-clock-times](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2528-number-of-valid-clock-times) |
 | [2580-circular-sentence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -918,6 +919,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0204-count-primes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2528-number-of-valid-clock-times](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2528-number-of-valid-clock-times) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
