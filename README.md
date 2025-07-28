@@ -465,6 +465,7 @@ Leetcode solutions of dsa
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3893-generate-tag-for-video-caption](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3893-generate-tag-for-video-caption) |
 | [3905-partition-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3905-partition-string) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
@@ -689,6 +690,7 @@ Leetcode solutions of dsa
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3893-generate-tag-for-video-caption](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3893-generate-tag-for-video-caption) |
 | [3905-partition-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3905-partition-string) |
 ## Linked List
@@ -716,6 +718,7 @@ Leetcode solutions of dsa
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Recursion
 |  |
 | ------- |
