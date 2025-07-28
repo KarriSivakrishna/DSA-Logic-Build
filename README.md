@@ -94,6 +94,7 @@ Leetcode solutions of dsa
 | [2089-maximum-matrix-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2089-maximum-matrix-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2164-two-best-non-overlapping-events](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2164-two-best-non-overlapping-events) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -559,6 +560,7 @@ Leetcode solutions of dsa
 | [0389-find-the-difference](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0389-find-the-difference) |
 | [1940-maximum-xor-for-each-query](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -834,6 +836,7 @@ Leetcode solutions of dsa
 | [0306-additive-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1160-letter-tile-possibilities) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Memoization
 |  |
 | ------- |
@@ -903,6 +906,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0204-count-primes) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
