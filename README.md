@@ -139,6 +139,7 @@ Leetcode solutions of dsa
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3639-zero-array-transformation-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -456,6 +457,7 @@ Leetcode solutions of dsa
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3617-find-the-original-typed-string-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -755,6 +757,7 @@ Leetcode solutions of dsa
 | [2677-cousins-in-binary-tree-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -790,6 +793,7 @@ Leetcode solutions of dsa
 | [2201-valid-arrangement-of-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2201-valid-arrangement-of-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -879,6 +883,7 @@ Leetcode solutions of dsa
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Shortest Path
 |  |
 | ------- |
