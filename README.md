@@ -87,6 +87,7 @@ Leetcode solutions of dsa
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1940-maximum-xor-for-each-query) |
+| [1944-truncate-sentence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1944-truncate-sentence) |
 | [1972-rotating-the-box](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -406,6 +407,7 @@ Leetcode solutions of dsa
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1933-number-of-different-integers-in-a-string) |
+| [1944-truncate-sentence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1944-truncate-sentence) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2077-largest-number-after-mutating-substring](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2077-largest-number-after-mutating-substring) |
