@@ -347,6 +347,7 @@ Leetcode solutions of dsa
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3905-partition-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3905-partition-string) |
 | [3934-coupon-code-validator](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3934-coupon-code-validator) |
 ## String
 |  |
@@ -465,6 +466,7 @@ Leetcode solutions of dsa
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3893-generate-tag-for-video-caption](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3893-generate-tag-for-video-caption) |
+| [3905-partition-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3905-partition-string) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 | [3934-coupon-code-validator](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3934-coupon-code-validator) |
 ## Dynamic Programming
@@ -688,6 +690,7 @@ Leetcode solutions of dsa
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3893-generate-tag-for-video-caption](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3893-generate-tag-for-video-caption) |
+| [3905-partition-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3905-partition-string) |
 ## Linked List
 |  |
 | ------- |
@@ -927,6 +930,7 @@ Leetcode solutions of dsa
 | [0386-lexicographical-numbers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0386-lexicographical-numbers) |
 | [1080-camelcase-matching](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1080-camelcase-matching) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3905-partition-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3905-partition-string) |
 ## Design
 |  |
 | ------- |
