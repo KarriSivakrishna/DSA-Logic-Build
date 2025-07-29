@@ -539,6 +539,7 @@ Leetcode solutions of dsa
 | [0539-minimum-time-difference](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0539-minimum-time-difference) |
 | [0913-random-flip-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0913-random-flip-matrix) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [0915-generate-random-point-in-a-circle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0915-generate-random-point-in-a-circle) |
 | [0919-projection-area-of-3d-shapes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0919-projection-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1086-divisor-game) |
@@ -869,6 +870,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0913-random-flip-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0913-random-flip-matrix) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [0915-generate-random-point-in-a-circle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0915-generate-random-point-in-a-circle) |
 ## String Matching
 |  |
 | ------- |
@@ -1024,5 +1026,10 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0149-max-points-on-a-line) |
+| [0915-generate-random-point-in-a-circle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0915-generate-random-point-in-a-circle) |
 | [0919-projection-area-of-3d-shapes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0919-projection-area-of-3d-shapes) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0915-generate-random-point-in-a-circle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0915-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
