@@ -765,6 +765,7 @@ Leetcode solutions of dsa
 | [0226-invert-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0547-number-of-provinces) |
 | [0787-sliding-puzzle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0945-snakes-and-ladders) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -805,6 +806,7 @@ Leetcode solutions of dsa
 | [0257-binary-tree-paths](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0547-number-of-provinces) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2201-valid-arrangement-of-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2201-valid-arrangement-of-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -894,6 +896,7 @@ Leetcode solutions of dsa
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0547-number-of-provinces) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -937,6 +940,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0130-surrounded-regions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0547-number-of-provinces) |
 ## Trie
 |  |
 | ------- |
