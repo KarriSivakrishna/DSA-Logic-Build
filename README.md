@@ -116,6 +116,7 @@ Leetcode solutions of dsa
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2358-number-of-ways-to-split-array) |
@@ -277,6 +278,7 @@ Leetcode solutions of dsa
 | [1755-defuse-the-bomb](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -343,6 +345,7 @@ Leetcode solutions of dsa
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2340-total-appeal-of-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2340-total-appeal-of-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2378-sender-with-largest-word-count](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2378-sender-with-largest-word-count) |
