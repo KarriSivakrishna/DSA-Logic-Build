@@ -27,6 +27,7 @@ Leetcode solutions of dsa
 | [0136-single-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0189-rotate-array) |
@@ -287,6 +288,7 @@ Leetcode solutions of dsa
 | [0049-group-anagrams](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0219-contains-duplicate-ii) |
@@ -518,6 +520,7 @@ Leetcode solutions of dsa
 | [0050-powx-n](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0204-count-primes) |
@@ -1005,4 +1008,8 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
