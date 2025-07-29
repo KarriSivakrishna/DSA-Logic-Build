@@ -153,6 +153,7 @@ Leetcode solutions of dsa
 | [3639-zero-array-transformation-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -291,6 +292,7 @@ Leetcode solutions of dsa
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Hash Table
@@ -582,6 +584,7 @@ Leetcode solutions of dsa
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
@@ -922,6 +925,7 @@ Leetcode solutions of dsa
 | [0204-count-primes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0204-count-primes) |
 | [0888-mirror-reflection](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0888-mirror-reflection) |
 | [2716-prime-subtraction-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2716-prime-subtraction-operation) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Monotonic Stack
 |  |
@@ -1029,6 +1033,7 @@ Leetcode solutions of dsa
 | [0204-count-primes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2528-number-of-valid-clock-times](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2528-number-of-valid-clock-times) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
