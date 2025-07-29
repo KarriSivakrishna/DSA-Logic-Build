@@ -638,6 +638,7 @@ Leetcode solutions of dsa
 | [0086-partition-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0234-palindrome-linked-list) |
@@ -712,6 +713,7 @@ Leetcode solutions of dsa
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0143-reorder-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0234-palindrome-linked-list) |
@@ -722,6 +724,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0874-backspace-string-compare) |
@@ -736,6 +739,7 @@ Leetcode solutions of dsa
 | [0002-add-two-numbers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0342-power-of-four) |
