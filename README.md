@@ -44,6 +44,7 @@ Leetcode solutions of dsa
 | [0349-intersection-of-two-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0455-assign-cookies) |
@@ -160,6 +161,7 @@ Leetcode solutions of dsa
 | [0055-jump-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0561-array-partition) |
@@ -493,6 +495,7 @@ Leetcode solutions of dsa
 | [0322-coin-change](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0410-split-array-largest-sum) |
 | [0466-count-the-repetitions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0466-count-the-repetitions) |
 | [0494-target-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0747-min-cost-climbing-stairs) |
@@ -566,6 +569,7 @@ Leetcode solutions of dsa
 | [0209-minimum-size-subarray-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0792-binary-search) |
@@ -619,6 +623,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0878-shifting-letters) |
