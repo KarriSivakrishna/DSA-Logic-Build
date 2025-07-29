@@ -532,6 +532,7 @@ Leetcode solutions of dsa
 | [0371-sum-of-two-integers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0539-minimum-time-difference) |
 | [0913-random-flip-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0913-random-flip-matrix) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0914-random-point-in-non-overlapping-rectangles) |
