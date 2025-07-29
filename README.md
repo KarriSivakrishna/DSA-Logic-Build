@@ -122,6 +122,7 @@ Leetcode solutions of dsa
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2378-sender-with-largest-word-count](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2378-sender-with-largest-word-count) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2479-meeting-rooms-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -217,6 +218,7 @@ Leetcode solutions of dsa
 | [2164-two-best-non-overlapping-events](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2479-meeting-rooms-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -450,6 +452,7 @@ Leetcode solutions of dsa
 | [2378-sender-with-largest-word-count](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2378-sender-with-largest-word-count) |
 | [2401-count-asterisks](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2401-count-asterisks) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2528-number-of-valid-clock-times](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2528-number-of-valid-clock-times) |
 | [2580-circular-sentence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2580-circular-sentence) |
@@ -865,6 +868,7 @@ Leetcode solutions of dsa
 | [2164-two-best-non-overlapping-events](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2479-meeting-rooms-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2479-meeting-rooms-iii) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -877,6 +881,7 @@ Leetcode solutions of dsa
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0169-majority-element) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -1055,4 +1060,12 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0867-new-21-game) |
+## Radix Sort
+|  |
+| ------- |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2422-query-kth-smallest-trimmed-number) |
+## Quickselect
+|  |
+| ------- |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2422-query-kth-smallest-trimmed-number) |
 <!---LeetCode Topics End-->
