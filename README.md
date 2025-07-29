@@ -262,6 +262,7 @@ Leetcode solutions of dsa
 | [0567-permutation-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0867-new-21-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -504,6 +505,7 @@ Leetcode solutions of dsa
 | [0647-palindromic-substrings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0867-new-21-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1086-divisor-game) |
 | [1764-maximum-repeating-substring](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1764-maximum-repeating-substring) |
@@ -545,6 +547,7 @@ Leetcode solutions of dsa
 | [0415-add-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0539-minimum-time-difference) |
+| [0867-new-21-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0867-new-21-game) |
 | [0888-mirror-reflection](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0888-mirror-reflection) |
 | [0913-random-flip-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0913-random-flip-matrix) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -1046,4 +1049,8 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0915-generate-random-point-in-a-circle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0915-generate-random-point-in-a-circle) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
