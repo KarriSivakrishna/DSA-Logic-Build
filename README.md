@@ -497,6 +497,7 @@ Leetcode solutions of dsa
 | [0494-target-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1086-divisor-game) |
 | [1764-maximum-repeating-substring](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1764-maximum-repeating-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -540,6 +541,7 @@ Leetcode solutions of dsa
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0919-projection-area-of-3d-shapes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0919-projection-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1086-divisor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1103-moving-stones-until-consecutive) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -997,11 +999,13 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1086-divisor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1103-moving-stones-until-consecutive) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1086-divisor-game) |
 ## Segment Tree
 |  |
 | ------- |
