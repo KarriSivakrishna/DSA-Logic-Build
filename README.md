@@ -933,6 +933,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0969-number-of-recent-calls](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0969-number-of-recent-calls) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Monotonic Queue
 |  |
@@ -1020,6 +1021,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0969-number-of-recent-calls](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0969-number-of-recent-calls) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Enumeration
 |  |
@@ -1086,4 +1088,8 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2422-query-kth-smallest-trimmed-number) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
