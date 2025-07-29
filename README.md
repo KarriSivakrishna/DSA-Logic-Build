@@ -160,6 +160,7 @@ Leetcode solutions of dsa
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3822-fill-a-special-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3822-fill-a-special-grid) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3934-coupon-code-validator](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3934-coupon-code-validator) |
 ## Greedy
 |  |
@@ -291,6 +292,7 @@ Leetcode solutions of dsa
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -581,6 +583,7 @@ Leetcode solutions of dsa
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 ## Binary Search
 |  |
@@ -919,6 +922,7 @@ Leetcode solutions of dsa
 | [0204-count-primes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0204-count-primes) |
 | [0888-mirror-reflection](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0888-mirror-reflection) |
 | [2716-prime-subtraction-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2716-prime-subtraction-operation) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -929,10 +933,12 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Backtracking
 |  |
 | ------- |
