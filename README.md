@@ -59,6 +59,7 @@ Leetcode solutions of dsa
 | [0609-find-duplicate-file-in-system](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0609-find-duplicate-file-in-system) |
 | [0643-maximum-average-subarray-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0724-find-pivot-index) |
+| [0740-delete-and-earn](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0792-binary-search) |
@@ -308,6 +309,7 @@ Leetcode solutions of dsa
 | [0567-permutation-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0609-find-duplicate-file-in-system](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0609-find-duplicate-file-in-system) |
+| [0740-delete-and-earn](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0740-delete-and-earn) |
 | [0778-reorganize-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0807-custom-sort-string) |
@@ -500,6 +502,7 @@ Leetcode solutions of dsa
 | [0466-count-the-repetitions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0466-count-the-repetitions) |
 | [0494-target-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0647-palindromic-substrings) |
+| [0740-delete-and-earn](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1086-divisor-game) |
