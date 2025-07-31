@@ -816,6 +816,7 @@ Leetcode solutions of dsa
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0257-binary-tree-paths) |
+| [0623-add-one-row-to-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0623-add-one-row-to-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -831,6 +832,7 @@ Leetcode solutions of dsa
 | [0322-coin-change](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0547-number-of-provinces) |
+| [0623-add-one-row-to-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0623-add-one-row-to-tree) |
 | [0787-sliding-puzzle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0945-snakes-and-ladders) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -853,6 +855,7 @@ Leetcode solutions of dsa
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0257-binary-tree-paths) |
+| [0623-add-one-row-to-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0623-add-one-row-to-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -874,6 +877,7 @@ Leetcode solutions of dsa
 | [0386-lexicographical-numbers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0547-number-of-provinces) |
+| [0623-add-one-row-to-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0623-add-one-row-to-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2201-valid-arrangement-of-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2201-valid-arrangement-of-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
