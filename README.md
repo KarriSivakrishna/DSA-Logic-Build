@@ -412,6 +412,7 @@ Leetcode solutions of dsa
 | [0306-additive-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0306-additive-number) |
 | [0336-palindrome-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0336-palindrome-pairs) |
 | [0389-find-the-difference](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0415-add-strings) |
@@ -522,6 +523,7 @@ Leetcode solutions of dsa
 | [0264-ugly-number-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0410-split-array-largest-sum) |
 | [0466-count-the-repetitions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0466-count-the-repetitions) |
@@ -700,6 +702,7 @@ Leetcode solutions of dsa
 | [0234-palindrome-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0567-permutation-in-string) |
