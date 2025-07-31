@@ -70,6 +70,7 @@ Leetcode solutions of dsa
 | [0898-transpose-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0898-transpose-matrix) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0919-projection-area-of-3d-shapes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0919-projection-area-of-3d-shapes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0945-snakes-and-ladders) |
 | [0990-verifying-an-alien-dictionary](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0990-verifying-an-alien-dictionary) |
@@ -525,6 +526,7 @@ Leetcode solutions of dsa
 | [0740-delete-and-earn](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0867-new-21-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0867-new-21-game) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0993-tallest-billboard](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0993-tallest-billboard) |
 | [1013-fibonacci-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1086-divisor-game) |
@@ -639,6 +641,7 @@ Leetcode solutions of dsa
 | [0342-power-of-four](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0389-find-the-difference) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1940-maximum-xor-for-each-query](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
