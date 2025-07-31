@@ -41,6 +41,7 @@ Leetcode solutions of dsa
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0322-coin-change) |
+| [0336-palindrome-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0403-frog-jump) |
@@ -317,6 +318,7 @@ Leetcode solutions of dsa
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0398-random-pick-index) |
@@ -408,6 +410,7 @@ Leetcode solutions of dsa
 | [0290-word-pattern](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0306-additive-number) |
+| [0336-palindrome-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0336-palindrome-pairs) |
 | [0389-find-the-difference](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
@@ -1030,6 +1033,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0139-word-break](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0336-palindrome-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0386-lexicographical-numbers) |
 | [1080-camelcase-matching](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1080-camelcase-matching) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2079-delete-duplicate-folders-in-system) |
