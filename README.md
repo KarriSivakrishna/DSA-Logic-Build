@@ -417,6 +417,7 @@ Leetcode solutions of dsa
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0459-repeated-substring-pattern) |
 | [0466-count-the-repetitions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0466-count-the-repetitions) |
 | [0500-keyboard-row](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0520-detect-capital) |
@@ -933,6 +934,7 @@ Leetcode solutions of dsa
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0812-rotate-string) |
 | [1080-camelcase-matching](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1080-camelcase-matching) |
 | [1524-string-matching-in-an-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1524-string-matching-in-an-array) |
