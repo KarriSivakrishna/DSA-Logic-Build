@@ -68,6 +68,7 @@ Leetcode solutions of dsa
 | [0824-number-of-lines-to-write-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0837-most-common-word) |
 | [0878-shifting-letters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0878-shifting-letters) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0898-transpose-matrix) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -615,6 +616,7 @@ Leetcode solutions of dsa
 | [0436-find-right-interval](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1046-max-consecutive-ones-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1046-max-consecutive-ones-iii) |
