@@ -319,6 +319,7 @@ Leetcode solutions of dsa
 | [0299-bulls-and-cows](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0398-random-pick-index) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0525-contiguous-array) |
@@ -565,6 +566,7 @@ Leetcode solutions of dsa
 | [0342-power-of-four](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0371-sum-of-two-integers) |
+| [0398-random-pick-index](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0507-perfect-number) |
@@ -908,11 +910,13 @@ Leetcode solutions of dsa
 ## Reservoir Sampling
 |  |
 | ------- |
+| [0398-random-pick-index](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0398-random-pick-index) |
 | [0913-random-flip-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0913-random-flip-matrix) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 ## Randomized
 |  |
 | ------- |
+| [0398-random-pick-index](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0398-random-pick-index) |
 | [0913-random-flip-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0913-random-flip-matrix) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0915-generate-random-point-in-a-circle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0915-generate-random-point-in-a-circle) |
