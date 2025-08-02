@@ -420,6 +420,7 @@ Leetcode solutions of dsa
 | [0336-palindrome-pairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0336-palindrome-pairs) |
 | [0389-find-the-difference](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0415-add-strings) |
@@ -799,6 +800,7 @@ Leetcode solutions of dsa
 | [0020-valid-parentheses](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -816,6 +818,7 @@ Leetcode solutions of dsa
 | [0206-reverse-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
