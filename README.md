@@ -1032,6 +1032,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0176-second-highest-salary](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0196-delete-duplicate-emails) |
+| [0584-find-customer-referee](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0607-sales-person) |
 | [1908-recyclable-and-low-fat-products](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1908-recyclable-and-low-fat-products) |
