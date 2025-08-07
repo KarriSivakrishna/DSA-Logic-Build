@@ -14,6 +14,7 @@ Leetcode solutions of dsa
 | [0046-permutations](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0074-search-a-2d-matrix) |
@@ -746,6 +747,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0079-word-search) |
@@ -768,6 +770,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0657-robot-return-to-origin) |
