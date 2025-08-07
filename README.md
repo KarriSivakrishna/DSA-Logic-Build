@@ -24,6 +24,7 @@ Leetcode solutions of dsa
 | [0088-merge-sorted-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0136-single-number) |
@@ -319,6 +320,7 @@ Leetcode solutions of dsa
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1056,6 +1058,7 @@ Leetcode solutions of dsa
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0547-number-of-provinces) |
