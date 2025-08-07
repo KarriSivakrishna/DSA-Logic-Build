@@ -160,6 +160,7 @@ Leetcode solutions of dsa
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3639-zero-array-transformation-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3643-zero-array-transformation-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -559,6 +560,7 @@ Leetcode solutions of dsa
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Math
 |  |
 | ------- |
@@ -760,6 +762,7 @@ Leetcode solutions of dsa
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3822-fill-a-special-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3822-fill-a-special-grid) |
 ## Simulation
 |  |
