@@ -229,6 +229,7 @@ Leetcode solutions of dsa
 | [0594-longest-harmonious-subsequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0807-custom-sort-string) |
+| [0900-reordered-power-of-2](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0900-reordered-power-of-2) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -256,6 +257,7 @@ Leetcode solutions of dsa
 | [0594-longest-harmonious-subsequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0837-most-common-word) |
+| [0900-reordered-power-of-2](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1297-maximum-number-of-balloons](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1297-maximum-number-of-balloons) |
 | [1502-construct-k-palindrome-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1502-construct-k-palindrome-strings) |
@@ -346,6 +348,7 @@ Leetcode solutions of dsa
 | [0782-jewels-and-stones](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0807-custom-sort-string) |
 | [0837-most-common-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0837-most-common-word) |
+| [0900-reordered-power-of-2](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0900-reordered-power-of-2) |
 | [0913-random-flip-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0913-random-flip-matrix) |
 | [0940-fruit-into-baskets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0940-fruit-into-baskets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0990-verifying-an-alien-dictionary) |
@@ -595,6 +598,7 @@ Leetcode solutions of dsa
 | [0539-minimum-time-difference](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0539-minimum-time-difference) |
 | [0867-new-21-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0867-new-21-game) |
 | [0888-mirror-reflection](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0888-mirror-reflection) |
+| [0900-reordered-power-of-2](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0900-reordered-power-of-2) |
 | [0913-random-flip-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0913-random-flip-matrix) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0915-generate-random-point-in-a-circle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0915-generate-random-point-in-a-circle) |
@@ -1082,6 +1086,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0204-count-primes) |
+| [0900-reordered-power-of-2](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2528-number-of-valid-clock-times](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2528-number-of-valid-clock-times) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3702-maximum-subarray-with-equal-products) |
