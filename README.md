@@ -70,6 +70,7 @@ Leetcode solutions of dsa
 | [0792-binary-search](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0792-binary-search) |
 | [0824-number-of-lines-to-write-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0837-most-common-word) |
+| [0852-friends-of-appropriate-ages](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [0878-shifting-letters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -231,6 +232,7 @@ Leetcode solutions of dsa
 | [0594-longest-harmonious-subsequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0807-custom-sort-string) |
+| [0852-friends-of-appropriate-ages](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [0900-reordered-power-of-2](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -638,6 +640,7 @@ Leetcode solutions of dsa
 | [0475-heaters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0792-binary-search) |
+| [0852-friends-of-appropriate-ages](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -740,6 +743,7 @@ Leetcode solutions of dsa
 | [0567-permutation-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0680-valid-palindrome-ii) |
+| [0852-friends-of-appropriate-ages](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [0874-backspace-string-compare](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0941-sort-array-by-parity) |
