@@ -591,6 +591,7 @@ Leetcode solutions of dsa
 | [0166-fraction-to-recurring-decimal](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0292-nim-game) |
@@ -677,6 +678,7 @@ Leetcode solutions of dsa
 | [0136-single-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0371-sum-of-two-integers) |
@@ -845,6 +847,7 @@ Leetcode solutions of dsa
 | [0050-powx-n](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0394-decode-string) |
