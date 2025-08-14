@@ -492,6 +492,7 @@ Leetcode solutions of dsa
 | [2232-adding-spaces-to-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2340-total-appeal-of-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2340-total-appeal-of-a-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2378-sender-with-largest-word-count](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2378-sender-with-largest-word-count) |
 | [2401-count-asterisks](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2401-count-asterisks) |
