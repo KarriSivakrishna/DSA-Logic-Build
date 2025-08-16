@@ -190,6 +190,7 @@ Leetcode solutions of dsa
 | [0561-array-partition](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0778-reorganize-string) |
+| [1448-maximum-69-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -618,6 +619,7 @@ Leetcode solutions of dsa
 | [1086-divisor-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1086-divisor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1103-moving-stones-until-consecutive) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
