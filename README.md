@@ -63,6 +63,7 @@ Leetcode solutions of dsa
 | [0594-longest-harmonious-subsequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0609-find-duplicate-file-in-system](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0609-find-duplicate-file-in-system) |
 | [0643-maximum-average-subarray-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0747-min-cost-climbing-stairs) |
@@ -608,6 +609,7 @@ Leetcode solutions of dsa
 | [0415-add-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0539-minimum-time-difference) |
+| [0679-24-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0867-new-21-game) |
 | [0888-mirror-reflection](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0888-mirror-reflection) |
 | [0900-reordered-power-of-2](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0900-reordered-power-of-2) |
@@ -1028,6 +1030,7 @@ Leetcode solutions of dsa
 | [0257-binary-tree-paths](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1160-letter-tile-possibilities) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Memoization
