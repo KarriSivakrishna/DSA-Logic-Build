@@ -11,6 +11,7 @@ Leetcode solutions of dsa
 | [0015-3sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0049-group-anagrams) |
@@ -640,6 +641,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0162-find-peak-element) |
