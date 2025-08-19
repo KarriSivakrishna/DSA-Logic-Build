@@ -137,6 +137,7 @@ Leetcode solutions of dsa
 | [2378-sender-with-largest-word-count](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2378-sender-with-largest-word-count) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -626,6 +627,7 @@ Leetcode solutions of dsa
 | [1448-maximum-69-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2716-prime-subtraction-operation) |
 | [3055-maximum-odd-binary-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3055-maximum-odd-binary-number) |
