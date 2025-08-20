@@ -92,6 +92,7 @@ Leetcode solutions of dsa
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1293-three-consecutive-odds](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -568,6 +569,7 @@ Leetcode solutions of dsa
 | [0993-tallest-billboard](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0993-tallest-billboard) |
 | [1013-fibonacci-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1086-divisor-game) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1764-maximum-repeating-substring](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1764-maximum-repeating-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -793,6 +795,7 @@ Leetcode solutions of dsa
 | [0919-projection-area-of-3d-shapes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0919-projection-area-of-3d-shapes) |
 | [0945-snakes-and-ladders](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
