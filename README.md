@@ -163,6 +163,7 @@ Leetcode solutions of dsa
 | [3291-find-if-array-can-be-sorted](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3427-special-array-ii) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -801,6 +802,7 @@ Leetcode solutions of dsa
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3822-fill-a-special-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3822-fill-a-special-grid) |
 ## Simulation
