@@ -163,6 +163,7 @@ Leetcode solutions of dsa
 | [3291-find-if-array-can-be-sorted](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3427-special-array-ii) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -802,6 +803,7 @@ Leetcode solutions of dsa
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3822-fill-a-special-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3822-fill-a-special-grid) |
@@ -1125,6 +1127,7 @@ Leetcode solutions of dsa
 | [0900-reordered-power-of-2](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2528-number-of-valid-clock-times](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2528-number-of-valid-clock-times) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
