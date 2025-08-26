@@ -161,6 +161,7 @@ Leetcode solutions of dsa
 | [2915-count-of-interesting-subarrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2915-count-of-interesting-subarrays) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3194-find-words-containing-character) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3427-special-array-ii) |
