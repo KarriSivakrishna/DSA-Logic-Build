@@ -650,6 +650,7 @@ Leetcode solutions of dsa
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3830-find-closest-person](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3830-find-closest-person) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 ## Binary Search
