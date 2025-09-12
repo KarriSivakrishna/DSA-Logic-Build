@@ -533,6 +533,7 @@ Leetcode solutions of dsa
 | [3412-permutation-difference-between-two-strings](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3451-string-compression-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3468-find-the-encrypted-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3468-find-the-encrypted-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -645,6 +646,7 @@ Leetcode solutions of dsa
 | [2716-prime-subtraction-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2716-prime-subtraction-operation) |
 | [3055-maximum-odd-binary-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3055-maximum-odd-binary-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1166,11 +1168,13 @@ Leetcode solutions of dsa
 | [1103-moving-stones-until-consecutive](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1103-moving-stones-until-consecutive) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3462-vowels-game-in-a-string) |
 ## Segment Tree
 |  |
 | ------- |
