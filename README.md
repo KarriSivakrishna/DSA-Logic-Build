@@ -188,6 +188,7 @@ Leetcode solutions of dsa
 | [3791-fruits-into-baskets-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3797-design-spreadsheet) |
 | [3822-fill-a-special-grid](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3822-fill-a-special-grid) |
+| [3827-implement-router](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3827-implement-router) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3934-coupon-code-validator](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3934-coupon-code-validator) |
 ## Greedy
@@ -419,6 +420,7 @@ Leetcode solutions of dsa
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3827-implement-router) |
 | [3905-partition-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3905-partition-string) |
 | [3934-coupon-code-validator](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3934-coupon-code-validator) |
 ## String
@@ -705,6 +707,7 @@ Leetcode solutions of dsa
 | [3643-zero-array-transformation-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1049,6 +1052,7 @@ Leetcode solutions of dsa
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0969-number-of-recent-calls](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0969-number-of-recent-calls) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3827-implement-router) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Monotonic Queue
 |  |
@@ -1144,6 +1148,7 @@ Leetcode solutions of dsa
 | [0969-number-of-recent-calls](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0969-number-of-recent-calls) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3797-design-spreadsheet](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3827-implement-router) |
 ## Enumeration
 |  |
 | ------- |
@@ -1192,6 +1197,7 @@ Leetcode solutions of dsa
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [3790-fruits-into-baskets-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3827-implement-router) |
 ## Doubly-Linked List
 |  |
 | ------- |
