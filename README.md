@@ -28,6 +28,7 @@ Leetcode solutions of dsa
 | [0088-merge-sorted-array](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0135-candy) |
@@ -565,6 +566,7 @@ Leetcode solutions of dsa
 | [0091-decode-ways](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0213-house-robber-ii) |
