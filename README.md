@@ -75,6 +75,7 @@ Leetcode solutions of dsa
 | [0787-sliding-puzzle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0792-binary-search) |
 | [0824-number-of-lines-to-write-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0824-number-of-lines-to-write-string) |
+| [0830-largest-triangle-area](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0837-most-common-word) |
 | [0852-friends-of-appropriate-ages](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [0878-shifting-letters](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0878-shifting-letters) |
@@ -634,6 +635,7 @@ Leetcode solutions of dsa
 | [0507-perfect-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0539-minimum-time-difference) |
 | [0679-24-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0867-new-21-game) |
 | [0888-mirror-reflection](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0888-mirror-reflection) |
 | [0900-reordered-power-of-2](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0900-reordered-power-of-2) |
@@ -1208,6 +1210,7 @@ Leetcode solutions of dsa
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0149-max-points-on-a-line) |
+| [0830-largest-triangle-area](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0830-largest-triangle-area) |
 | [0888-mirror-reflection](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0888-mirror-reflection) |
 | [0915-generate-random-point-in-a-circle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0915-generate-random-point-in-a-circle) |
 | [0919-projection-area-of-3d-shapes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0919-projection-area-of-3d-shapes) |
