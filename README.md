@@ -655,6 +655,7 @@ Leetcode solutions of dsa
 | [2716-prime-subtraction-operation](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2716-prime-subtraction-operation) |
 | [3055-maximum-odd-binary-number](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3055-maximum-odd-binary-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -853,6 +854,7 @@ Leetcode solutions of dsa
 | [2408-number-of-people-aware-of-a-secret](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2479-meeting-rooms-iii) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3336-water-bottles-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3860-resulting-string-after-adjacent-removals) |
