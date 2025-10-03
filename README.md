@@ -53,6 +53,7 @@ Leetcode solutions of dsa
 | [0349-intersection-of-two-arrays](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0403-frog-jump) |
+| [0407-trapping-rain-water-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -818,6 +819,7 @@ Leetcode solutions of dsa
 | [0079-word-search](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0463-island-perimeter) |
 | [0787-sliding-puzzle](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0787-sliding-puzzle) |
 | [0898-transpose-matrix](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0898-transpose-matrix) |
@@ -935,6 +937,7 @@ Leetcode solutions of dsa
 | [0200-number-of-islands](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0623-add-one-row-to-tree) |
@@ -993,6 +996,7 @@ Leetcode solutions of dsa
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0778-reorganize-string](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0778-reorganize-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1127-last-stone-weight](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/1127-last-stone-weight) |
