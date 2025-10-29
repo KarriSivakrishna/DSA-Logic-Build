@@ -665,6 +665,7 @@ Leetcode solutions of dsa
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3830-find-closest-person) |
@@ -745,6 +746,7 @@ Leetcode solutions of dsa
 | [3394-minimum-array-end](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3394-minimum-array-end) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/KarriSivakrishna/JAVA-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Prefix Sum
 |  |
 | ------- |
